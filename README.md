@@ -77,6 +77,7 @@ We've activated all the parts of our code that stitch in the three pillars of
 front-end web programming. Let's go back to your browser and see what Simple
 Liker looks like in action.
 
+
 ![working example of favoriting a post][three-pillars-example-working]
 
 ## Conclusion
