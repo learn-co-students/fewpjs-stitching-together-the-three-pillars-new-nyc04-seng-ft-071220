@@ -57,6 +57,12 @@ Open up your `demo.js` file and take a look at everything there. Find the
 comments that begin with "Step 1." Follow the instructions there to un-comment
 the code that locates the page element we want — in this case, the heart.
 
+
+
+
+
+
+
 ![demonstration of un-commenting step one][three-pillars-example-comment-step-one]
 
 ### Cause a Change to Given Code So That Server-Side Behavior Is Stubbed in
